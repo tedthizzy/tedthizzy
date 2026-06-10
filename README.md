@@ -9,3 +9,5 @@
 </a>
 
 **[ai-bubble](https://github.com/tedthizzy/ai-bubble)** — evidence-gated forensics on the AI / data-center financing boom. **$1.45T** of claimed paper, adjudicated down **~98%** to a **$25.8B verified core**, mapped from SEC EDGAR primary sources with red-teamed caveats built in. Hover any entity · click for exposures · play the cascade.
+
+<!-- evidence-gated · tedthizzy.github.io/ai-bubble -->
